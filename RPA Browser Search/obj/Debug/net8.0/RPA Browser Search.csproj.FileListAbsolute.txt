@@ -1,0 +1,56 @@
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\x86\leptonica-1.80.0.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\x86\tesseract41.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\x64\leptonica-1.80.0.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\x64\tesseract41.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\RPA Browser Search.exe
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\RPA Browser Search.deps.json
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\RPA Browser Search.runtimeconfig.json
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\RPA Browser Search.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\RPA Browser Search.pdb
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\Easy.Automation.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Beans.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Charsets.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Corba.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Core.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Jdbc.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Management.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Media.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Misc.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Naming.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Remoting.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Security.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.SwingAWT.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Text.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.Util.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.OpenJDK.XML.API.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.Runtime.JNI.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\IKVM.Runtime.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\bcmail-jdk15-1.44.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\bcprov-jdk15-1.44.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\commons-logging.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\fontbox-1.8.2.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\icu4j-3.8.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\jempbox-1.8.2.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\junit.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\pdfbox-1.8.2.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\WebDriver.Support.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\WebDriver.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\Sikuli4Net.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\Tesseract.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.csproj.AssemblyReference.cache
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.AssemblyInfoInputs.cache
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.AssemblyInfo.cs
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.csproj.CoreCompileInputs.cache
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.csproj.CopyComplete
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\refint\RPA Browser Search.dll
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.pdb
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\RPA Browser Search.genruntimeconfig.cache
+D:\workspace\C#\RPA\RPA Browser Search\RPA Browser Search\obj\Debug\net8.0\ref\RPA Browser Search.dll
